@@ -1,11 +1,11 @@
-# read.me generator 
-![Github license](https://img.shields.io/badge/license-MIT,APACHE2.0-blue.svg)
+# read.me gen 
+![Github license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-makes a read.me file
+make read.me
 ## Deployed Application URL
-undefined
+
 ## Screenshot
-![alt-text](undefined)
+![alt-text]()
 ## Table of Contents
 * [Features](#features)
 * [Languages & Dependencies](#languagesanddependencies)
@@ -14,14 +14,14 @@ undefined
 * [Testing](#testing)
 * [Questions](#questions)
 ## Features
-undefined
+nothing 
 ## Languages & Dependencies
-npm install
+n/a
 ## How to Use This Application:
-html js node 
+none
 ## Contributors
-undefined
+na
 ## Testing
-isntall npm
+na
 ## Questions
-Please send your questions [here](mailto:jj@gmail.com?subject=[GitHub]%20Dev%20Connect) or visit [github/oo7jag](https://github.com/oo7jag).
+Please send your questions [here](mailto:jagmitcheema2003?subject=[GitHub]%20Dev%20Connect) or visit [github/007jag](https://github.com/007jag).
